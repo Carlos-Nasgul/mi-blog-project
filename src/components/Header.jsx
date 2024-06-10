@@ -17,10 +17,62 @@ function Header() {
     <header className="d-flex align-items-center justify-content-between p-3">
       <Icono className="icono-portada" />
       <div className="d-flex">
-        <button className="boton-menu">Noticias</button>
-        <button className="boton-menu">Relax</button>
-        <button className="boton-menu">Videos</button>
-        <button className="boton-menu">Contacto</button>
+        <a
+          href="/"
+          target="_Blank"
+          rel="noopener noreferrer"
+          className="boton-menu"
+        >
+          Noticias
+        </a>
+        <a
+          href="/"
+          target="_Blank"
+          rel="noopener noreferrer"
+          className="boton-menu"
+        >
+          Relax
+        </a>
+        <a
+          className="boton-menu"
+          href="/"
+          target="_Blank"
+          rel="noopener noreferrer"
+        >
+          Videos
+        </a>
+        <a
+          className="boton-menu"
+          href="/"
+          target="_Blank"
+          rel="noopener noreferrer"
+        >
+          Interés
+        </a>
+        <a
+          href="http://"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="boton-menu"
+        >
+          Qué Hacer
+        </a>
+        <a
+          className="boton-menu space-x"
+          href="http://localhost:4321/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          SpaceX 🚀
+        </a>
+        <a
+          href="/"
+          target="_Blank"
+          rel="noopener noreferrer"
+          className="boton-menu"
+        >
+          Contacto
+        </a>
       </div>
       <div className="d-flex align-items-center social-links">
         <a

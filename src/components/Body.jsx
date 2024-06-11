@@ -12,7 +12,7 @@ function Body() {
           className="ventana-uno"
           title={"SpaceX a la vanguardia"}
           description={
-            "Probando una breve muestra del poder de React Probando una breve muestra del poder de React Probando una breve muestra del poder de React Probando una breve muestra del poder de React Probando una breve muestra del poder de React Probando una breve muestra del poder de React Probando una breve muestra del poder de React Probando una breve muestra del poder de React Probando una breve muestra del poder de React"
+            "SpaceX lanzó otros 20 satélites Starlink. La compañía aeroespacial norteamericana  lanzó el pasado sábado un cohete Falcon 9."
           }
         />
         <WindowTwo

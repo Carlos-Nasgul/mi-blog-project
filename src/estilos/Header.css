@@ -4,6 +4,10 @@ header {
   color: whitesmoke;
 }
 
+a {
+  text-decoration: none;
+}
+
 .icono-portada {
   width: 50px;
   height: 50px;
@@ -21,7 +25,7 @@ header {
 }
 
 .social-icon {
-  color: #4caf50;
+  color: rgb(243, 75, 8);
   margin: 0 15px;
   font-size: 24px;
   align-items: center;
@@ -53,7 +57,4 @@ header {
   box-shadow: 0 1px 3px 2px #1919f5; /* Sombras de los botones */
   color: #a3f50b;
   transition: 0.5s ease-in-out;
-}
-a {
-  text-decoration: none;
 }

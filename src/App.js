@@ -3,6 +3,7 @@ import Body from "./components/Body";
 import { WindowOne, WindowTwo } from "./components/Windows";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
         <WindowOne />
         <WindowTwo />
       </Body>
+      <Footer email="carlosgarciarico1974@gmail.com" />
     </div>
   );
 }

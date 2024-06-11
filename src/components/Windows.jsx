@@ -16,7 +16,7 @@ export function WindowOne({ title, description }) {
 export function WindowTwo({ title, description }) {
   // Asegúrate de usar destructuring para las props
   return (
-    <div className="ventana-uno cuerpo-secundario align-items-center">
+    <div className="ventana-dos cuerpo-secundario align-items-center">
       <h3>{title}</h3>
       <p>{description}</p>
     </div>

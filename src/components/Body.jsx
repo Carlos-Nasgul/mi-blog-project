@@ -10,13 +10,17 @@ function Body() {
       <div className="cuerpo-secundario">
         <WindowOne
           className="ventana-uno"
-          title={"Hola Chavales"}
-          description={"Probando una breve muestra del poder de React"}
+          title={"SpaceX a la vanguardia"}
+          description={
+            "Probando una breve muestra del poder de React Probando una breve muestra del poder de React Probando una breve muestra del poder de React Probando una breve muestra del poder de React Probando una breve muestra del poder de React Probando una breve muestra del poder de React Probando una breve muestra del poder de React Probando una breve muestra del poder de React Probando una breve muestra del poder de React"
+          }
         />
         <WindowTwo
           className="ventana-uno ventana-dos"
-          title={"Hola Chavales"}
-          description={"Probando una breve muestra del poder de React"}
+          title={"Noticias destacadas"}
+          description={
+            "Probando una breve muestra del poder de React Probando una breve muestra del poder de React Probando una breve muestra del poder de React Probando una breve muestra del poder de React Probando una breve muestra del poder de React Probando una breve muestra del poder de React Probando una breve muestra del poder de React Probando una breve muestra del poder de React Probando una breve muestra del poder de React"
+          }
         />
       </div>
     </div>
